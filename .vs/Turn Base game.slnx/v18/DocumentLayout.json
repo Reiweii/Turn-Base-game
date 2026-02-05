@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\source\\repos\\Turn Base game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|C:\\Users\\John\\source\\repos\\Turn Base game\\turn base game\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|c:\\users\\john\\source\\repos\\turn base game\\turn base game\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|C:\\Users\\John\\source\\repos\\Turn Base game\\turn base game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|c:\\users\\john\\source\\repos\\turn base game\\turn base game\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|C:\\Users\\John\\source\\repos\\Turn Base game\\turn base game\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|C:\\Users\\John\\source\\repos\\Turn Base game\\turn base game\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|c:\\users\\john\\source\\repos\\turn base game\\turn base game\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|C:\\Users\\John\\source\\repos\\Turn Base game\\turn base game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDBB7B9B-066F-4C2E-ACB2-EA84C6A2E559}|Turn Base game\\Turn Base game.vbproj|solutionrelative:turn base game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form1.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form1.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form1.vb [Design]",
+              "RelativeToolTip": "Turn Base game\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T12:51:03.371Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form2.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form2.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form2.vb [Design]",
+              "RelativeToolTip": "Turn Base game\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T12:54:34.999Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form3.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form3.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form3.vb [Design]",
+              "RelativeToolTip": "Turn Base game\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T13:06:08.738Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form4.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form4.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form4.vb [Design]",
+              "RelativeToolTip": "Turn Base game\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-05T08:27:28.275Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form4.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form4.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form4.vb",
+              "RelativeToolTip": "Turn Base game\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-05T08:35:35.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form3.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form3.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form3.vb",
+              "RelativeToolTip": "Turn Base game\\Form3.vb",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T13:09:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form2.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form2.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form2.vb",
+              "RelativeToolTip": "Turn Base game\\Form2.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T12:55:23.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form1.vb",
+              "RelativeDocumentMoniker": "Turn Base game\\Form1.vb",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\Turn Base game\\Turn Base game\\Form1.vb",
+              "RelativeToolTip": "Turn Base game\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T12:52:39.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
