@@ -31,58 +31,73 @@ Partial Class Form2
         '
         'btnEasy
         '
+        Me.btnEasy.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.btnEasy.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.btnEasy.Location = New System.Drawing.Point(335, 173)
+        Me.btnEasy.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.btnEasy.Font = New System.Drawing.Font("Segoe Print", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnEasy.Location = New System.Drawing.Point(202, 132)
         Me.btnEasy.Name = "btnEasy"
-        Me.btnEasy.Size = New System.Drawing.Size(112, 52)
+        Me.btnEasy.Size = New System.Drawing.Size(399, 90)
         Me.btnEasy.TabIndex = 0
         Me.btnEasy.Text = "EASY"
         Me.btnEasy.UseVisualStyleBackColor = False
         '
         'btnMedium
         '
+        Me.btnMedium.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.btnMedium.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.btnMedium.Location = New System.Drawing.Point(335, 243)
+        Me.btnMedium.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.btnMedium.Font = New System.Drawing.Font("Segoe Print", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnMedium.Location = New System.Drawing.Point(202, 228)
         Me.btnMedium.Name = "btnMedium"
-        Me.btnMedium.Size = New System.Drawing.Size(112, 52)
+        Me.btnMedium.Size = New System.Drawing.Size(399, 90)
         Me.btnMedium.TabIndex = 1
         Me.btnMedium.Text = "MEDIUM"
         Me.btnMedium.UseVisualStyleBackColor = False
         '
         'btnHard
         '
+        Me.btnHard.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.btnHard.BackColor = System.Drawing.Color.Red
-        Me.btnHard.Location = New System.Drawing.Point(335, 316)
+        Me.btnHard.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.btnHard.Font = New System.Drawing.Font("Segoe Print", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnHard.Location = New System.Drawing.Point(202, 324)
         Me.btnHard.Name = "btnHard"
-        Me.btnHard.Size = New System.Drawing.Size(112, 52)
+        Me.btnHard.Size = New System.Drawing.Size(399, 90)
         Me.btnHard.TabIndex = 2
         Me.btnHard.Text = "HARD"
         Me.btnHard.UseVisualStyleBackColor = False
         '
         'Label1
         '
-        Me.Label1.AutoSize = True
+        Me.Label1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Label1.AutoEllipsis = True
         Me.Label1.BackColor = System.Drawing.Color.Transparent
-        Me.Label1.Font = New System.Drawing.Font("Impact", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(238, 70)
+        Me.Label1.Font = New System.Drawing.Font("Segoe Print", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(64, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(293, 41)
+        Me.Label1.Size = New System.Drawing.Size(715, 120)
         Me.Label1.TabIndex = 3
         Me.Label1.Text = "CHOOSE DIFFICULTY:"
+        Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'btnBack
         '
-        Me.btnBack.Location = New System.Drawing.Point(12, 411)
+        Me.btnBack.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btnBack.BackColor = System.Drawing.Color.DarkGray
+        Me.btnBack.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnBack.Font = New System.Drawing.Font("Segoe Print", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnBack.Location = New System.Drawing.Point(12, 387)
         Me.btnBack.Name = "btnBack"
-        Me.btnBack.Size = New System.Drawing.Size(67, 27)
+        Me.btnBack.Size = New System.Drawing.Size(108, 51)
         Me.btnBack.TabIndex = 4
         Me.btnBack.Text = "BACK"
-        Me.btnBack.UseVisualStyleBackColor = True
+        Me.btnBack.UseVisualStyleBackColor = False
         '
         'Form2
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.BackgroundImage = Global.Turn_Base_game.My.Resources.Resources.volcano_background_z3ouk41h3zvw2vyg
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(800, 450)
@@ -91,11 +106,12 @@ Partial Class Form2
         Me.Controls.Add(Me.btnHard)
         Me.Controls.Add(Me.btnMedium)
         Me.Controls.Add(Me.btnEasy)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Form2"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form2"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
 
